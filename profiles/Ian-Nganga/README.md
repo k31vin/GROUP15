@@ -4,10 +4,10 @@
 [Ian Nganga](https://github.com/Ian-Nganga)
 
 ## Favorite Programming Languages and Tech Stack
-- Swift
-- iOS Development
-- Core Data
+- PHP
+- JAVASCRIPT
+- SQL
 
 ## LinkedIn and CV Links
-[LinkedIn](https://www.linkedin.com/in/ian-nganga)
+[LinkedIn](https://www.linkedin.com/in/ian-wambaire-5332932a9/)
 [CV](https://example.com/ian-nganga-cv)
