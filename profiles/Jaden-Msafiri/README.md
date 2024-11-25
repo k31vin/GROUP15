@@ -7,6 +7,11 @@
 - Dart
 - Flutter
 - Firebase
+- HTML
+- CSS
+- Java
+- Javascript
+- Kotlin
 
 ## LinkedIn and CV Links
 [LinkedIn](https://www.linkedin.com/in/jaden-msafiri)
